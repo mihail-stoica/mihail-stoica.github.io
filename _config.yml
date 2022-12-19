@@ -106,7 +106,12 @@ analytics:
 author:
   name             : "Mihail Stoica"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Padawan software engineer"
+  bio              : "Padawan software engineer
+                      focused on distributed systems, 
+                      web based n-tiered Java, Spring architectures, 
+                      domain driven design, event sourcing, CQRS pattern 
+                      and event-driven design for asynchronous 
+                      microservices with Apache Kafka"
   location         : "Luxembourg & Belgium"
   email            : hello@mihailstoica.com
   links:
