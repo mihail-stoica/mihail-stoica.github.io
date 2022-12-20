@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+#
+- project:
+  role: Founder & Primary Developer
+  duration: 2012 &mdash; Present
+  # url: "#"
+  description: 
+
+# 
+- project: 
+  role: 
+  duration: 2007 &mdash; Present
+  # url: "#"
+  description: 
